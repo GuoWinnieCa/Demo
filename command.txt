@@ -1,0 +1,11 @@
+git config --global winnie
+git config --global winniuser.email winnie
+git config --list
+git init
+git status
+git add (U-->A)
+git cat -file
+	-t
+	-p
+	-s
+git tatusgit ls-files
