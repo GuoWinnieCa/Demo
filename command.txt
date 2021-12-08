@@ -1,5 +1,5 @@
-git config --global winnie
-git config --global winniuser.email winnie
+git config --global MyName
+git config --global user.email MyEmail
 git config --list
 git init
 git status
